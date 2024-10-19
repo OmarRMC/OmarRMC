@@ -1,4 +1,4 @@
-# Omar Rodrigo Mamani Capcha - Front-End Developer
+# Omar Rodrigo Mamani Capcha - Web Developer
 
 📍 **La Paz, Bolivia**  
 📧 **Email**: mamani.orc@gmail.com  
